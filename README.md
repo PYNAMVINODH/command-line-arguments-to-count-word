@@ -31,7 +31,8 @@ print("Total Words:",len(words))
 ```
 
 ### OUTPUT:
-![output](https://github.com/akash7812/command-line-arguments-to-count-word/assets/146819826/879313f7-aa47-484e-92f2-97d6644431fc)
+![image](https://github.com/PYNAMVINODH/command-line-arguments-to-count-word/assets/145742678/7d06b44d-a580-4b75-8aad-1a73eb014582)
+
 
 
 
